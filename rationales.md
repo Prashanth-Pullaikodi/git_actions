@@ -1,4 +1,4 @@
-# Rationales
+## Rationales
 
 This document contains what are at times lengthy rationales and justifications
 for the decisions made in the main [Style guide](./README.md).
